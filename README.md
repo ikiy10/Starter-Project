@@ -29,11 +29,12 @@ starter-project/
 ├── public/              # Static files served by the web server
 │   ├── index.html       # Main HTML page
 │   └── styles.css       # Basic styling
-├── src/                 # Source code (you'll add files here)
+|   |src/               # Source code (you'll add files here)
 │   ├── app.js          # Main application entry point (currently empty)
 │   ├── models/         # Data models (Day 1+)
 │   ├── services/       # Business logic (Day 1+)
-│   └── utils/          # Utility functions (Day 1+)
+│   └── utils/          # Utility functions (Day 1+)    
+├
 └── tests/              # Test files (Day 3+)
 ```
 
